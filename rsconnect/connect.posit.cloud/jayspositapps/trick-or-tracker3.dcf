@@ -1,0 +1,12 @@
+name: trick-or-tracker3
+title: trick-or-tracker
+username: jayspositapps
+account: jayspositapps
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1222d-9ad4-b5cd-fb17-521313d3bae4
+bundleId:
+url:
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
